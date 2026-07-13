@@ -8,7 +8,7 @@ A self-built home lab modeling enterprise network and identity infrastructure: V
 
 | Doc | Covers |
 |---|---|
-| [`network-infrastructure-kb.md`](./network-infrastructure-kb.md)](https://github.com/the-buike/homelab-lab/blob/main/network-knowledge-base.md) | VLAN design, MikroTik router configuration, switching, the Proxmox host, and remote access |
+| [`active-directory-kb.md`](./active-directory-kb.md) | VLAN design, MikroTik router configuration, switching, the Proxmox host, and remote access |
 | [`active-directory-kb.md`](./active-directory-kb.md) | The Windows Server domain controller build: forest promotion, DNS, OU structure, and verification |
 | [`fictional-company-project-kb.md`](./fictional-company-project-kb.md) | Planned expansion: a fictional company network combining public DNS, an internal file server, and AD-based access control |
 | [`homelab-config.rsc`](./homelab-config.rsc) | Exported MikroTik RouterOS configuration, the authoritative source for the router's actual running config |
